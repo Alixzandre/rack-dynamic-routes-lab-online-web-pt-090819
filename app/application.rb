@@ -1,5 +1,5 @@
 class Application
-  
+  @@items = []
   
   
 end
